@@ -42,9 +42,8 @@ Navega al directorio:
 
 Requisitos
 Python 3.7 o superior
+
 Librería turtle (opcional para ejercicios gráficos)
-Contribuciones
-Si tienes sugerencias para mejorar los ejercicios o te gustaría agregar nuevos, no dudes en hacer un pull request o abrir un issue.
 
 ¡Gracias por visitar este repositorio! Espero que estos ejercicios te ayuden en tu camino para aprender a programar.
 
